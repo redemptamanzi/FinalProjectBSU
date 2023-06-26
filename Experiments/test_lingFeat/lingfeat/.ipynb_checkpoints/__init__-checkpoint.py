@@ -1,0 +1,1 @@
+from lingfeat.extractor import pass_text
